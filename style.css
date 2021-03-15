@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #b8a3a3;
+}
+.project {
+  background-color: #b8a3a3;
+}
+section {
+  padding-top: 5rem;
+}
+
+@media (max-width: 767.98px) {
+  section {
+    padding-top: 5rem;
+  }
+  footer {
+    margin-top: -1rem;
+  }
+}
